@@ -1,5 +1,5 @@
 # readme
-personal repository
+personal repository - this is where you know my everything
 
 hi, i'm Junheng, nice to e-meet you visiting my github. And i was a UX designer but now decide to be a front-end engineer or software engineering.
 you may be curious about why i consider as a developer in rest of career? The simplest reason is i am passionate about developing one software. To be detailed, when i occasionally selected up one optonal module namaed Digital Sandbox and studyed it at autumn semester last year untill spring autume this year, i found it funny and shocked to build in any software application i wanted, this inspired me to have the motivation that studyed one program language to develop a web app anyway, except from the reason, the teacher of this module also share his working experience as a developer, which also attracted my attention to developer. Last reason i will mentioned, as we known, designers play a role in a product deveopment team less than developers' effort. 
