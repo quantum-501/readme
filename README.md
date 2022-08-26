@@ -1,5 +1,5 @@
 # readme
-personal repository - this is where you know everything
+Personal repository - this is where you know everything
 
 😜 hi, i'm Junheng, lovely to e-meet you visiting my github. And i was a graduate but now decide to be a front-end engineer or software engineering. you may be curious about why i consider as a developer in rest of career? The simplest reason is i am passionate about developing one software. To be detailed, when i occasionally selected up one optional module named Digital Sandbox and studied it at autumn semester last year util spring autumn this year, i found it funny and shocked to build in any software application i wanted, this inspired me to have the motivation that studied one program language to develop a web app anyway, except from the reason, the teacher of this module also share his working experience as a developer, which also attracted my attention to developer. Last reason i will mentioned, as we known, designers play a role in a product development team less than developers' effort.
 
